@@ -1,0 +1,90 @@
+{
+  "response": "success",
+  "results-for": "d",
+  "results": [
+    {
+      "id": "1",
+      "image": "https://i.scdn.co/image/ab67706f00000002caba3d271a22a158b3cb63b4",
+      "title": "Exitos España",
+      "followers": "2.345.234 SEGUIDORES",
+      "song": {
+        "song1": "69",
+        "song2": "10",
+        "song3": "33",
+        "song4": "40",
+        "song5": "37",
+        "song6": "50"
+      }
+    },
+    {
+      "id": "2",
+      "image": "https://i.scdn.co/image/ab67706f00000002caba3d271a22a158b3cb63b4",
+      "title": "Pop con Ñ",
+      "followers": "2.345.234 SEGUIDORES",
+      "song": {
+        "song1": "69",
+        "song2": "10",
+        "song3": "33",
+        "song4": "40",
+        "song5": "37",
+        "song6": "50"
+      }
+    },
+    {
+      "id": "3",
+      "image": "https://i.scdn.co/image/ab67706f00000002caba3d271a22a158b3cb63b4",
+      "title": "Pop Clásico",
+      "followers": "2.345.234 SEGUIDORES",
+      "song": {
+        "song1": "69",
+        "song2": "10",
+        "song3": "33",
+        "song4": "40",
+        "song5": "37",
+        "song6": "50"
+      }
+    },
+    {
+      "id": "4",
+      "image": "https://i.scdn.co/image/ab67706f00000002caba3d271a22a158b3cb63b4",
+      "title": "Today's Top Hits",
+      "followers": "2.345.234 SEGUIDORES",
+      "song": {
+        "song1": "69",
+        "song2": "10",
+        "song3": "33",
+        "song4": "40",
+        "song5": "37",
+        "song6": "50"
+      }
+    },
+    {
+      "id": "5",
+      "image": "https://i.scdn.co/image/ab67706f00000002caba3d271a22a158b3cb63b4",
+      "title": "Pop Internacional",
+      "followers": "2.345.234 SEGUIDORES",
+      "song": {
+        "song1": "69",
+        "song2": "10",
+        "song3": "33",
+        "song4": "40",
+        "song5": "37",
+        "song6": "50"
+      }
+    },
+    {
+      "id": "6",
+      "image": "https://i.scdn.co/image/ab67706f00000002caba3d271a22a158b3cb63b4",
+      "title": "Flamenco Pop",
+      "followers": "2.345.234 SEGUIDORES",
+      "song": {
+        "song1": "69",
+        "song2": "10",
+        "song3": "33",
+        "song4": "40",
+        "song5": "37",
+        "song6": "50"
+      }
+    }
+  ]
+}
